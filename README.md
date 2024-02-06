@@ -15,16 +15,16 @@ The Dataset spans from 2012 to 2021 and contains information about BPS organizat
 https://data.ontario.ca/dataset/energy-use-and-greenhouse-gas-emissions-for-the-broader-public-sector
 
 # Processes Involved:
-Data Preparation
-Data Cleaning
-Exploratory Data Analysis
-Data Visualisation - Power BI
+- Data Preparation
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualisation - Power BI
 
 # Key Features:
-Sector: Represents the sector of the organization (e.g., Public Hospital, School Board).
-SubSector: Provides further classification within the sector.
-Organization: Name of the BPS organization.
-Operation: Specific operation or facility within the organization.
-Address, City, Postal Code: Location details of the organization.
-Energy Usage: Information about electricity, natural gas, fuel oil, propane, coal, wood, district heating, and district cooling consumption.
-GHG Emissions: Greenhouse gas emissions in kilograms.
+- Sector: Represents the sector of the organization (e.g., Public Hospital, School Board).
+- SubSector: Provides further classification within the sector.
+- Organization: Name of the BPS organization.
+- Operation: Specific operation or facility within the organization.
+- Address, City, Postal Code: Location details of the organization.
+- Energy Usage: Information about electricity, natural gas, fuel oil, propane, coal, wood, district heating, and district cooling consumption.
+- GHG Emissions: Greenhouse gas emissions in kilograms.
